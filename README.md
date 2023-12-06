@@ -1,5 +1,7 @@
 # RnR
 Is Rails Still Relevant Today?
+
+
 Arguments in Favor:
 Productivity and Convention over Configuration:
 
